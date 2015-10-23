@@ -1,0 +1,9 @@
+wp-admin
+wp-includes
+wp-config.php
+*.png
+*.jpg
+*.bmp
+*.gif
+
+
